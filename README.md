@@ -1,6 +1,6 @@
 ## lambda-oauth
 
-Some Python code to accept an OAuth code in a lambda and promote it to an access token with a request to the OAuth server.
+This doesn't really do anything yet, but the goal would eventually be to use a lambda/API gateway as an OAuth proxy.
 
 ## Setup
 
